@@ -10,7 +10,6 @@
             "email": "github@ifgiovanni.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php" : ">=5.6.4"
     },
