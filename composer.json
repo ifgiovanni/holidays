@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "type": "library",
     "license": "LGPL-3.0+",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "IFGIOVANNI",
