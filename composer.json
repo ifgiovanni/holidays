@@ -4,8 +4,9 @@
     "keywords": ["Holidays", "Dias festivos", "El Salvador"],
     "version": "1.0.0",
     "type": "library",
-    "license": "LGPL-3.0+",
-    "minimum-stability": "stable",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "IFGIOVANNI",
