@@ -3,7 +3,7 @@
     "description": "All holidays for some countries",
     "keywords": ["Holidays", "Dias festivos", "El Salvador"],
     "type": "library",
-    "license": "Opensource",
+    "license": "LGPL-3.0+",
     "authors": [
         {
             "name": "IFGIOVANNI",
